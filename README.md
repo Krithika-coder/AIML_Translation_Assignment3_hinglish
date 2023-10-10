@@ -50,6 +50,17 @@ python translate_to_hinglish.py "Your English sentence here."
 
 The script will output the translated Hinglish sentence.
 
+### Sample Output
+
+English: 1. Definitely share your feedback in the comment section.
+Hinglish: 1 निश्चित रूप से comment खण्ड में आपकी feedback share करें.
+
+English: 2. So even if it's a big video, I will clearly mention all the products.
+Hinglish: 2 अगर यह एक बड़ा video है, तो भी मैं स्पष्ट रूप से सभी products का mention करेंगे।
+
+English: 3. I was waiting for my bag.
+Hinglish: 3 मैं अपने बैग के लिए wait कर रहा था.
+
 ## Evaluation
 
 The translation accuracy of the script depends on the quality of the pre-trained model and the complexity of the input sentences. For simple and common sentences, the translation should be accurate. However, for highly specialized or technical content, the accuracy may vary.
