@@ -1,0 +1,8 @@
+English: 1. She goes to school daily with her father.
+Hinglish: 1. वह अपने father के साथ हर दिन school जाती है.
+
+English: 2. I watch television daily.
+Hinglish: 2. मैं हर दिन television देखता हूँ.
+
+English: 3. He likes to drink coffee.
+Hinglish: 3 वह coffee पीना पसंद करता है.
