@@ -40,16 +40,6 @@ The script provides translations that sound natural and are easy to understand f
    pip install sentencepiece
    ```
 
-### Running the Script
-
-To translate an English sentence to Hinglish, run the script with the following command:
-
-```bash
-python translate_to_hinglish.py "Your English sentence here."
-```
-
-The script will output the translated Hinglish sentence.
-
 ### Sample Output
 
 English: 1. Definitely share your feedback in the comment section.
